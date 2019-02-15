@@ -8,9 +8,9 @@ No alteration of any kind to the brand assets are allowed without written consen
 []( ![GridDBLogo](griddb-logo/png/color.png "GridDBLogo")
 <img src="griddb-logo/png/color.png" width="300">
 ### GridDB Icon :
-![GridDBIcon](griddb-icon/png/お相撲5色4ポーズ_RGB_170316_silhouette_dark.png "GridDBIcon")
+![GridDBIcon](griddb-icon/png/2048_お相撲5色4ポーズ_RGB_170316_silhouette_dark.png "GridDBIcon")
 ### GridDB Mascot :
-![GridDBMascot](griddb-mascot/png/お相撲5色4ポーズ_RGB_170316_skin_01.png "GridDBMascot")
+![GridDBMascot](griddb-mascot/png/2048_お相撲5色4ポーズ_RGB_170316_skin_01.png "GridDBMascot")
 ## Guideline
 #### DO’s
 - Use GridDB brand assets in an article about GridDB.
