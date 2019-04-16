@@ -1,6 +1,6 @@
 # Brand Resources
 
-All GridDB brand assets including GridDB®, GridDB Logo, GridDB Symbol, GridDB Mascot "Samurai Chanko" and GridDB Icon are exclusive trademarks or registered trademarks in Japan and other countries of Toshiba Digital Solutions Corporation.
+All GridDB brand assets including GridDB®, GridDB Logo, GridDB Logomark, GridDB Mascot "Samurai Chanko" and GridDB Icon are exclusive trademarks or registered trademarks in Japan and other countries of Toshiba Digital Solutions Corporation.
 
 No alteration of any kind to the brand assets are allowed without written consent of Toshiba Digital Solutions Corporation. If you have any questions on the usage of our brand assets, feel free to drop us an email: contact (at) griddb.org (or griddb (at) ml.toshiba.co.jp)
 
